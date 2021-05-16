@@ -9,4 +9,6 @@
 
 4.attachments (image, audion , video)code
 
+5.Hiding the last seen code
+
 
